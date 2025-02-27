@@ -1,7 +1,7 @@
 # DeepSeek API 调用工具
 
 ## 简介
-这是一个 DeepSeek API 调用工具，借助该工具，你只需输入 API 密钥，就能在本地进行满血版本且不拥堵的 DeepSeek 对话。
+这是一个 DeepSeek API 调用工具，借助该工具，你只需输入 API 密钥，就能在本地进行满血版本且不拥堵的 DeepSeek 对话。Exe文件可在Releases中直接下载
 
 ## 主要特性
 - **多轮对话支持**：支持连续的多轮对话，让你与 DeepSeek 进行流畅的交互。
